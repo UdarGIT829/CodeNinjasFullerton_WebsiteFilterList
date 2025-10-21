@@ -1,0 +1,4 @@
+# Only allow Google for testing
+google.com
+www.google.com
+mail.google.com
